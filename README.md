@@ -37,6 +37,7 @@ I build LLM systems and the production plumbing around them — retrieval, agent
 **Frontend**
 ![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-334155?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Pinned below 👇
 
