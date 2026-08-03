@@ -4,34 +4,39 @@
 
 I build LLM systems and the production plumbing around them — retrieval, agent orchestration, evaluation, and the cost of running it all. Four co-op terms in, most recently as a **Member of Technical Staff at 8090 Solutions** in Menlo Park.
 
-### What I reach for
+### Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square)
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-334155?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-334155?style=flat-square)
 
-### Also worked with
+**AI & Retrieval**
+![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-334155?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-334155?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-334155?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-334155?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-334155?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-334155?style=flat-square&logo=neo4j&logoColor=white)
 
-![LangChain](https://img.shields.io/badge/LangChain-475569?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-475569?style=flat-square)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-475569?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-475569?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-475569?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-475569?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-475569?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-475569?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-475569?style=flat-square)
-![React Native](https://img.shields.io/badge/React%20Native-475569?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-475569?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-475569?style=flat-square)
-![Java](https://img.shields.io/badge/Java-475569?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-475569?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-475569?style=flat-square)
+**Backend & Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-334155?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-334155?style=flat-square)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-334155?style=flat-square&logo=react&logoColor=white)
 
 ### Pinned below 👇
 
