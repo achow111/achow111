@@ -7,12 +7,11 @@ I build LLM systems and the production plumbing around them — retrieval, agent
 ### What I reach for
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Also worked with
@@ -21,6 +20,7 @@ I build LLM systems and the production plumbing around them — retrieval, agent
 ![PyTorch](https://img.shields.io/badge/PyTorch-475569?style=flat-square)
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-475569?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-475569?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-475569?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-475569?style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-475569?style=flat-square)
