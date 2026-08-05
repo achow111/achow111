@@ -2,7 +2,7 @@
 
 **Systems Design Engineering @ University of Waterloo** · BASc 2028
 
-I build LLM systems and the infrastructure around them — retrieval, agent orchestration, evaluation, and the cost of running it all. Four co-op terms in, most recently as a **Member of Technical Staff at 8090 Solutions** in Menlo Park.
+I build LLM systems and the infrastructure around them, including retrieval, agent orchestration, evaluation, and the cost of running it all. Four co-op terms in, most recently as a **Member of Technical Staff at 8090 Solutions** in Menlo Park.
 
 ### Stack
 
