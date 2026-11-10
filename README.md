@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile/heading-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/profile/heading-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/heading-dark.svg">
   <img src="assets/profile/heading-light.svg" alt="Aaron Chow — Systems Design Engineering, Waterloo ’28. AI systems, retrieval, and infrastructure." width="100%">
 </picture>
