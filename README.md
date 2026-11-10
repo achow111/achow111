@@ -1,63 +1,24 @@
-# Aaron Chow
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/heading-dark.svg">
+  <img src="assets/profile/heading-light.svg" alt="Aaron Chow — Systems Design Engineering, Waterloo ’28. AI systems, retrieval, and infrastructure." width="100%">
+</picture>
 
-**Systems Design Engineering · University of Waterloo ’28**
+<p><sub><a href="https://www.linkedin.com/in/aaron-sl-chow/">LinkedIn ↗</a> &nbsp; &nbsp; <a href="mailto:as3chow@uwaterloo.ca">Email ↗</a> &nbsp; &nbsp; <a href="https://devpost.com/aaron-sl-chow">Devpost ↗</a></sub></p>
 
-I build systems that find the evidence, connect the pieces, and turn them into useful answers.
+<h3>Selected projects</h3>
+<p><a href="https://devpost.com/software/sibyl-x8gpor"><img src="assets/profile/sibyl.svg" alt="Sibyl logo" align="left" width="44" height="44" hspace="12"></a><strong>Sibyl</strong> &nbsp; <sub>1st + Best AI/ML · Hack for Humanity</sub><br>Agent orchestration for sustainability-claim verification.<br><sub><a href="https://devpost.com/software/sibyl-x8gpor">Overview ↗</a> &nbsp; <a href="https://www.youtube.com/watch?v=YWpDHMI29LM">Demo ↗</a> &nbsp; <a href="https://github.com/HackForHumanity2026/Sibyl">Code ↗</a></sub></p>
+<p><a href="https://devpost.com/software/rosetta-hq6aby"><img src="assets/profile/rosetta.svg" alt="Rosetta logo" align="left" width="44" height="44" hspace="12"></a><strong>Rosetta</strong> &nbsp; <sub>3rd overall · HackHive</sub><br>Agentic RAG and live lecture translation.<br><sub><a href="https://devpost.com/software/rosetta-hq6aby">Overview ↗</a> &nbsp; <a href="https://youtu.be/lfkztHWLoCs">Demo ↗</a> &nbsp; <a href="https://github.com/AbeerDas/Rosetta-HackHive">Code ↗</a></sub></p>
+<p><a href="https://devpost.com/software/go-phish-e7qzo3"><img src="assets/profile/go-phish.svg" alt="Go-Phish logo" align="left" width="44" height="44" hspace="12"></a><strong>Go-Phish</strong><br>AI phishing detection with clear explanations.<br><sub><a href="https://devpost.com/software/go-phish-e7qzo3">Overview ↗</a> &nbsp; <a href="https://www.youtube.com/watch?v=6sejNYlVdSA">Demo ↗</a> &nbsp; <a href="https://github.com/achow111/Go-Phish">Code ↗</a></sub></p>
 
-[LinkedIn](https://www.linkedin.com/in/aaron-sl-chow/) · [Email](mailto:as3chow@uwaterloo.ca) · [Devpost](https://devpost.com/aaron-sl-chow)
-
-Currently at **8090 Solutions · Software Factory team**
-
-## Selected projects
-
-<a href="https://www.youtube.com/watch?v=YWpDHMI29LM"><img width="26%" align="right" hspace="12" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/378/760/datas/original.png" alt="Sibyl’s live agent investigation dashboard from the project’s Devpost gallery"></a>
-
-<h3>Sibyl</h3>
-<p><sub>1st place + Best AI/ML · Hack for Humanity 2026</sub></p>
-<p>A team of AI agents investigating the evidence behind sustainability claims.</p>
-<p><strong>My work:</strong> Designed and implemented the AI orchestration pipeline, with eight agents and judge-gated re-investigation.</p>
-<p><sub>Python · LangGraph · FastAPI · pgvector</sub></p>
-<p><a href="https://www.youtube.com/watch?v=YWpDHMI29LM">▶ Watch demo</a> · <a href="https://github.com/HackForHumanity2026/Sibyl">Code ↗</a> · <a href="https://devpost.com/software/sibyl-x8gpor">Devpost ↗</a></p>
-<details><summary>How the system works</summary><p>Specialist agents investigate claims in parallel. A judge evaluates the evidence and routes weak findings back for up to three re-investigations before a final verdict.</p><a href="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/378/782/datas/original.jpg"><img width="540" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/378/782/datas/original.jpg" alt="Sibyl agent orchestration architecture from Devpost"></a></details>
-
-<br clear="all">
+<h3>Industry experience</h3>
+<p><img src="assets/profile/8090.svg" alt="8090 Solutions logo" align="left" width="36" height="36" hspace="16"><strong>8090 Solutions</strong> &nbsp; <sub>Software Factory · Current</sub><br>Agentic testing with my custom browser worker.</p>
+<p><img src="assets/profile/8090.svg" alt="8090 Solutions logo" align="left" width="36" height="36" hspace="16"><strong>8090 Solutions</strong><br>Assay platform for 50+ Abbott scientists.</p>
+<p><img src="assets/profile/fairfax.svg" alt="Fairfax Financial logo" align="left" width="36" height="36" hspace="16"><strong>Fairfax Financial</strong><br>Hybrid RAG over financial filings and ISDA agreements.</p>
+<p><img src="assets/profile/home-hardware.svg" alt="Home Hardware logo" align="left" width="36" height="36" hspace="16"><strong>Home Hardware</strong><br>Python API middleware for inventory workflows.</p>
 
 <br>
-<a href="https://youtu.be/lfkztHWLoCs"><img width="26%" align="right" hspace="12" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/206/545/datas/original.png" alt="Rosetta’s live transcription and course citation interface from Devpost"></a>
-
-<h3>Rosetta</h3>
-<p><sub>3rd place overall · HackHive 2026</sub></p>
-<p>Live lecture translation with citations that connect what you hear to your course materials.</p>
-<p><strong>My work:</strong> Built the agentic RAG pipeline, translation and speech services, and integrated backend services with the frontend.</p>
-<p><sub>Python · FastAPI · ChromaDB · React</sub></p>
-<p><a href="https://youtu.be/lfkztHWLoCs">▶ Watch demo</a> · <a href="https://github.com/AbeerDas/Rosetta-HackHive">Code ↗</a> · <a href="https://devpost.com/software/rosetta-hq6aby">Devpost ↗</a></p>
-<details><summary>How the system works</summary><p>Live transcript segments trigger retrieval from uploaded course materials. Embedding search and a lightweight reranker surface relevant citations alongside the lecture.</p><a href="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/201/179/datas/original.jpg"><img width="540" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/201/179/datas/original.jpg" alt="Rosetta parallel pipeline architecture from Devpost"></a></details>
-
-<br clear="all">
-
-<br>
-<a href="https://www.youtube.com/watch?v=6sejNYlVdSA"><img width="26%" align="right" hspace="12" src="https://github.com/user-attachments/assets/d041a39a-affe-429d-824d-5a705e58a6c8" alt="Go-Phish interface from its Devpost project story"></a>
-<h3>Go-Phish</h3><p>A browser extension combining phishing detection, explanations, and a fishing reward game.</p><p><a href="https://www.youtube.com/watch?v=6sejNYlVdSA">Watch demo ↗</a> · <a href="https://github.com/achow111/Go-Phish">Code ↗</a> · <a href="https://devpost.com/software/go-phish-e7qzo3">Devpost ↗</a></p>
-<br clear="all">
-
-
-## Industry experience
-
-**8090 Solutions** · Software Factory · Current  
-Building agentic testing with a custom browser worker.
-
-**8090 Solutions**  
-Built an assay platform for 50+ Abbott scientists.
-
-**Fairfax Financial**  
-Hybrid RAG over financial filings and ISDA agreements.  
-<sub>Qdrant + Neo4j; a 100-question evaluation harness.</sub>
-
-**Home Hardware**  
-Python API middleware for mobile inventory workflows.  
-<sub>Supporting 1,100+ vendors.</sub>
-
-## Tools I work with
+<details>
+<summary><strong>Tools I work with</strong> · Languages, AI & retrieval, backend, frontend</summary>
 
 **Languages**
 
@@ -83,3 +44,5 @@ Python API middleware for mobile inventory workflows.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="" width="22" height="22">&nbsp;React &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="" width="22" height="22">&nbsp;React Native &nbsp; · &nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/7C8F9D" alt="" width="22" height="22">&nbsp;Next.js
 </p>
 
+
+</details>
