@@ -15,42 +15,42 @@
 
 <p align="center"><sub><strong>LANGUAGES</strong></sub></p>
 <p align="center">
-<img src="assets/tools-small/python.svg" alt="" width="20" height="20">&nbsp;<sub>Python</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/typescript.svg" alt="" width="20" height="20">&nbsp;<sub>TypeScript</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/sql.svg" alt="" width="20" height="20">&nbsp;<sub>SQL</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/java.svg" alt="" width="20" height="20">&nbsp;<sub>Java</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/cplusplus.svg" alt="" width="20" height="20">&nbsp;<sub>C++</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/csharp.svg" alt="" width="20" height="20">&nbsp;<sub>C#</sub>&nbsp;&nbsp; 
+<img src="assets/tools-stacked/python.svg" alt="Python" width="76" height="48">
+<img src="assets/tools-stacked/typescript.svg" alt="TypeScript" width="76" height="48">
+<img src="assets/tools-stacked/sql.svg" alt="SQL" width="76" height="48">
+<img src="assets/tools-stacked/java.svg" alt="Java" width="76" height="48">
+<img src="assets/tools-stacked/cplusplus.svg" alt="C++" width="76" height="48">
+<img src="assets/tools-stacked/csharp.svg" alt="C#" width="76" height="48">
 </p>
 
 <p align="center"><sub><strong>AI &amp; RETRIEVAL</strong></sub></p>
 <p align="center">
-<img src="assets/tools-small/langgraph.svg" alt="" width="20" height="20">&nbsp;<sub>LangGraph</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/langchain.svg" alt="" width="20" height="20">&nbsp;<sub>LangChain</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/pytorch.svg" alt="" width="20" height="20">&nbsp;<sub>PyTorch</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/hugging-face.svg" alt="" width="20" height="20">&nbsp;<sub>Hugging Face</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/pgvector.svg" alt="" width="20" height="20">&nbsp;<sub>pgvector</sub>&nbsp;&nbsp; 
+<img src="assets/tools-stacked/langgraph.svg" alt="LangGraph" width="76" height="48">
+<img src="assets/tools-stacked/langchain.svg" alt="LangChain" width="76" height="48">
+<img src="assets/tools-stacked/pytorch.svg" alt="PyTorch" width="76" height="48">
+<img src="assets/tools-stacked/hugging-face.svg" alt="Hugging Face" width="76" height="48">
+<img src="assets/tools-stacked/pgvector.svg" alt="pgvector" width="76" height="48">
 <br>
-<img src="assets/tools-small/qdrant.svg" alt="" width="20" height="20">&nbsp;<sub>Qdrant</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/chromadb.svg" alt="" width="20" height="20">&nbsp;<sub>ChromaDB</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/pinecone.svg" alt="" width="20" height="20">&nbsp;<sub>Pinecone</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/neo4j.svg" alt="" width="20" height="20">&nbsp;<sub>Neo4j</sub>&nbsp;&nbsp; 
+<img src="assets/tools-stacked/qdrant.svg" alt="Qdrant" width="76" height="48">
+<img src="assets/tools-stacked/chromadb.svg" alt="ChromaDB" width="76" height="48">
+<img src="assets/tools-stacked/pinecone.svg" alt="Pinecone" width="76" height="48">
+<img src="assets/tools-stacked/neo4j.svg" alt="Neo4j" width="76" height="48">
 </p>
 
 <p align="center"><sub><strong>BACKEND &amp; INFRASTRUCTURE</strong></sub></p>
 <p align="center">
-<img src="assets/tools-small/fastapi.svg" alt="" width="20" height="20">&nbsp;<sub>FastAPI</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/flask.svg" alt="" width="20" height="20">&nbsp;<sub>Flask</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/postgresql.svg" alt="" width="20" height="20">&nbsp;<sub>PostgreSQL</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/mongodb.svg" alt="" width="20" height="20">&nbsp;<sub>MongoDB</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/docker.svg" alt="" width="20" height="20">&nbsp;<sub>Docker</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/aws.svg" alt="" width="20" height="20">&nbsp;<sub>AWS</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/azure.svg" alt="" width="20" height="20">&nbsp;<sub>Azure</sub>&nbsp;&nbsp; 
+<img src="assets/tools-stacked/fastapi.svg" alt="FastAPI" width="76" height="48">
+<img src="assets/tools-stacked/flask.svg" alt="Flask" width="76" height="48">
+<img src="assets/tools-stacked/postgresql.svg" alt="PostgreSQL" width="76" height="48">
+<img src="assets/tools-stacked/mongodb.svg" alt="MongoDB" width="76" height="48">
+<img src="assets/tools-stacked/docker.svg" alt="Docker" width="76" height="48">
+<img src="assets/tools-stacked/aws.svg" alt="AWS" width="76" height="48">
+<img src="assets/tools-stacked/azure.svg" alt="Azure" width="76" height="48">
 </p>
 
 <p align="center"><sub><strong>FRONTEND</strong></sub></p>
 <p align="center">
-<img src="assets/tools-small/react.svg" alt="" width="20" height="20">&nbsp;<sub>React</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/react-native.svg" alt="" width="20" height="20">&nbsp;<sub>React Native</sub>&nbsp;&nbsp; 
-<img src="assets/tools-small/next-js.svg" alt="" width="20" height="20">&nbsp;<sub>Next.js</sub>&nbsp;&nbsp; 
+<img src="assets/tools-stacked/react.svg" alt="React" width="76" height="48">
+<img src="assets/tools-stacked/react-native.svg" alt="React Native" width="76" height="48">
+<img src="assets/tools-stacked/next-js.svg" alt="Next.js" width="76" height="48">
 </p>
